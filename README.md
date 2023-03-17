@@ -18,5 +18,8 @@ You will also see any lint errors in the console.
 ## Add more items:)
 ![Home page](https://raw.githubusercontent.com/ShivamAgarwal00/todo-list_-node.js-database-/main/images/5.png)
 
+## Check-on done items:-
+![Home page](https://raw.githubusercontent.com/ShivamAgarwal00/todo-list_-node.js-database-/main/images/7.png)
+
 ## Data will save our backend server
 ![Home page](https://raw.githubusercontent.com/ShivamAgarwal00/todo-list_-node.js-database-/main/images/6.png)
